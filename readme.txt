@@ -16,9 +16,9 @@ CMS2CMS: Umbraco to WordPress Migration Plugin has been specifically developed w
 = Supported WordPress versions: 3.x = 
 
 = Currently Supported Entities that can be converted by CMS2CMS : = 
-* ✔ pages
-* ✔ content images 
-* ✔ internal links
+ ✔ pages
+ ✔ content images 
+ ✔ internal links
 
 = Additional Migration Options: = 
 - clear WordPress data before migration
