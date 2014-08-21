@@ -13,11 +13,13 @@ CMS2CMS: Umbraco to WordPress Migration Plugin has been specifically developed t
 
 CMS2CMS: Umbraco to WordPress Migration Plugin has been specifically developed with an end-user in mind to make your conversion process across these two platforms as effortless and precise as possible. This handy online service expects no programming experience to work with.
 
+*Supported WordPress versions:* 3.x (new software versions are constantly being added).
+
+* *There is Free Demo available (migration of limited number of pages).*
+* *Full Migration starts from $9.*
+
 = Video =
 [youtube https://www.youtube.com/watch?v=ixLLuz6UO44]
-
-
-= Supported WordPress versions: 3.x = 
 
 = Currently Supported Entities that can be converted by CMS2CMS : = 
 * ✔ pages
