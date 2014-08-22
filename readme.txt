@@ -1,6 +1,6 @@
 ﻿=== CMS2CMS: Umbraco to WordPress Migrator   ===
 Contributors: cms2cms
-Tags: Umbraco to WordPress, Umbraco to WordPress migration, convert Umbraco to WordPress, migrate Umbraco to WordPress, images, plugin
+Tags: Umbraco to WordPress, Umbraco to WordPress migration, convert Umbraco to WordPress, migrate Umbraco to WordPress, pages, plugin
 Requires at least: 3.0.0
 Tested up to: 3.9.1
 Stable tag: 3.6.2
@@ -34,6 +34,8 @@ CMS2CMS: Umbraco to WordPress Migration Plugin has been specifically developed w
 * Speed - due to the automated process, migration across these two software packages is a matter of a few minutes (up from 15 min depending on a website size).
 * Live Support - CMS2CMS provides 24/7 live chat support to help users cope with any issues. 
 * Free Demo Available - CMS2CMS provides its users with a possibility to see the website migration process in action and to estimate the results.
+
+More info: http://www.cms2cms.com/supported-cms/umbraco-to-wordpress-migration/
 
            Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between Umbraco and WordPress websites. As soon as activated, you’ll be redirected to CMS2CMS website in order to proceed with the further migration steps. 
 
