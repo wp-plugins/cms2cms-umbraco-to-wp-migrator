@@ -35,10 +35,10 @@ CMS2CMS: Umbraco to WordPress Migration Plugin has been specifically developed w
 * Live Support - CMS2CMS provides 24/7 live chat support to help users cope with any issues. 
 * Free Demo Available - CMS2CMS provides its users with a possibility to see the website migration process in action and to estimate the results.
 
-Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours:
-Phone support – 24 hours a day, Monday – Friday
-Live Chat support – 24 hours a day, Monday – Friday
-Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
+= Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours: = 
+- Phone support – 24 hours a day, Monday – Friday
+- Live Chat support – 24 hours a day, Monday – Friday
+- Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
 
 More info: http://www.cms2cms.com/supported-cms/umbraco-to-wordpress-migration/?utm_source=Umbraco&utm_medium=Link&utm_campaign=WordPress_plugins
 
