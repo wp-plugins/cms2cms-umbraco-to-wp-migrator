@@ -28,6 +28,8 @@ CMS2CMS: Umbraco to WordPress Migration Plugin has been specifically developed w
 
 = Additional Migration Options: = 
 - clear WordPress data before migration
+- 301 redirects from old URLs to new URLs
+- forms
 
 = Features of Automated Migration: = 
 * Intuitiveness - CMS2CMS requires no special skills to operate it so that even newbies and first-time users feel comfortable to how it works. 
